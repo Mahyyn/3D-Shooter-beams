@@ -7,7 +7,7 @@ Before running the game, ensure you have the following dependencies installed:
 
 Unity Game Engine (version 2021.3.16f1 or higher)
 
-#Gameplay
+# Gameplay
 The gameplay revolves around surviving waves of enemies in a 3D environment. Here's how to play:
 
 Survive the Waves: As the game starts, waves of enemies will begin attacking you. Your goal is to survive for as long as possible.
@@ -23,13 +23,14 @@ Ammo Resupply: Automatically replenish ammunition for your weapons.
 Speed Boost: Increase your movement speed for a limited time.
 
 Explosive Attacks: Add explosive damage to your shots for devastating area-of-effect damage.
-Controls
+
+# Controls
 Mouse: Aim
 Left-click: Shoot
 W, A, S, D: Move
 Q,E,X: Activate abilities (if purchased)
 
-Contributing
+# Contributing
 Contributions to this project are welcome. If you have any bug fixes, enhancements, or new features to suggest, please open an issue or submit a pull request. For major changes, please discuss your ideas in an issue before implementation.
 
 License
