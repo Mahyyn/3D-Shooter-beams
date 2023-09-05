@@ -7,7 +7,7 @@ Before running the game, ensure you have the following dependencies installed:
 
 Unity Game Engine (version 2021.3.16f1 or higher)
 
-Gameplay
+#Gameplay
 The gameplay revolves around surviving waves of enemies in a 3D environment. Here's how to play:
 
 Survive the Waves: As the game starts, waves of enemies will begin attacking you. Your goal is to survive for as long as possible.
